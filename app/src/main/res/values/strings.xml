@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ya-translator</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="translator_api_key">trnsl.1.1.20170314T153027Z.01ecaa53f9043eb3.db5cb7f730c215802b0a558390c61ccddd1cfbe2</string>
+    <string name="dictionary_api_key">dict.1.1.20170314T203025Z.81e01e80bc8a8aa9.983fc84cfa3906311f9591f4550529a697292185</string>
+
+    <string name="inputEditText_hint">Введите текст</string>
+
+</resources>
